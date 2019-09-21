@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6140cb65-8546-4164-8110-e9e2879d8580" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="www.dnc.cn" id="ea6d2f04-0d56-4abd-948d-6a7e1cc1e20c" name="textDnc" />
+    </servers>
+  </component>
+  <component name="PhpXdebugProxy" ide_key="phpStorm" host="localhost" port="80" />
+  <component name="ProjectId" id="1OaOoae6poPKVkiDNPuOHyYAyqM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\webroot\ketangdianming\static\font" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\webroot\ketangdianming\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="textDnc" start_url="">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6140cb65-8546-4164-8110-e9e2879d8580" name="Default Changelist" comment="" />
+      <created>1561727950279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561727950279</updated>
+      <workItem from="1561728080869" duration="169000" />
+      <workItem from="1561728387479" duration="1194000" />
+      <workItem from="1561781771465" duration="662000" />
+      <workItem from="1561888598153" duration="2759000" />
+      <workItem from="1561977325844" duration="11006000" />
+      <workItem from="1562043256076" duration="19763000" />
+      <workItem from="1562116040114" duration="14900000" />
+      <workItem from="1562467854019" duration="18135000" />
+      <workItem from="1562586152058" duration="48574000" />
+      <workItem from="1562723206178" duration="6616000" />
+      <workItem from="1562819899024" duration="5781000" />
+      <workItem from="1562899274810" duration="10343000" />
+      <workItem from="1563022291773" duration="720000" />
+      <workItem from="1563158552093" duration="4209000" />
+      <workItem from="1563240705220" duration="7139000" />
+      <workItem from="1563324778405" duration="17604000" />
+      <workItem from="1563426924782" duration="2535000" />
+      <workItem from="1563510391312" duration="633000" />
+      <workItem from="1563633025827" duration="1177000" />
+      <workItem from="1563758452177" duration="3437000" />
+      <workItem from="1563890354644" duration="878000" />
+      <workItem from="1563947516872" duration="3518000" />
+      <workItem from="1564212151660" duration="113000" />
+      <workItem from="1564212422858" duration="21660000" />
+      <workItem from="1564278404820" duration="8360000" />
+      <workItem from="1564325151419" duration="3753000" />
+      <workItem from="1564374818919" duration="22059000" />
+      <workItem from="1564546315213" duration="10220000" />
+      <workItem from="1564641675259" duration="4627000" />
+      <workItem from="1564726949245" duration="5617000" />
+      <workItem from="1564744712593" duration="2424000" />
+      <workItem from="1564837071549" duration="1075000" />
+      <workItem from="1564900753553" duration="8277000" />
+      <workItem from="1565004664175" duration="4003000" />
+      <workItem from="1565019467222" duration="67000" />
+      <workItem from="1565063913690" duration="3483000" />
+      <workItem from="1565145772043" duration="11318000" />
+      <workItem from="1565242052153" duration="15000000" />
+      <workItem from="1565310187085" duration="12806000" />
+      <workItem from="1565405574536" duration="829000" />
+      <workItem from="1565883153778" duration="661000" />
+      <workItem from="1566007542787" duration="12504000" />
+      <workItem from="1566091064453" duration="11694000" />
+      <workItem from="1566172805851" duration="42210000" />
+      <workItem from="1566262913964" duration="23080000" />
+      <workItem from="1566348909507" duration="20994000" />
+      <workItem from="1566435582581" duration="16397000" />
+      <workItem from="1566716066720" duration="172000" />
+      <workItem from="1566716386087" duration="688000" />
+      <workItem from="1566784615294" duration="4817000" />
+      <workItem from="1566970632533" duration="5270000" />
+      <workItem from="1567066083445" duration="8174000" />
+      <workItem from="1567392485333" duration="4688000" />
+      <workItem from="1567524734488" duration="211000" />
+      <workItem from="1567577795143" duration="1956000" />
+      <workItem from="1567590604090" duration="23000" />
+      <workItem from="1568031901117" duration="155000" />
+      <workItem from="1568359242413" duration="15531000" />
+      <workItem from="1568610889015" duration="1406000" />
+      <workItem from="1568765097109" duration="48000" />
+      <workItem from="1568765272032" duration="8724000" />
+      <workItem from="1568889873886" duration="3455000" />
+      <workItem from="1568893652930" duration="2797000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/test.php</url>
+          <line>29</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
