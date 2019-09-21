@@ -1,0 +1,23 @@
+
+.classList{
+    width: 94%;
+    margin: 0 0 25rpx 0;
+    border-radius: 15rpx;
+    background-color: #fff;
+    -webkit-box-shadow:0rpx 2rpx 2rpx #aaaaaa;
+            box-shadow:0rpx 2rpx 2rpx #aaaaaa;
+    border-left-style: solid;
+    border-left-width: 15rpx;
+}
+.classList .classList-title, .classList-info{
+    padding: 12rpx;
+    font-size: 38rpx;
+}
+.classList-title .classList-img{
+    width: 50rpx;
+    height: 50rpx;
+}
+.classList-info text{
+    font-size: 30rpx;
+}
+

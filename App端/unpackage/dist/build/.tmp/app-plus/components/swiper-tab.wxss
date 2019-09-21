@@ -1,0 +1,27 @@
+
+.uni-tab-bar.data-v-ced74aea{
+    height: 90rpx;
+    width: 100%;
+    position: fixed; 
+    z-index: 1;
+}
+.uni-swiper-tab.data-v-ced74aea{
+    border-bottom: 1rpx solid #EEEEEE;
+    background: #FFFFFF;
+}
+.swiper-tab-list.data-v-ced74aea{
+    color: #969696;
+    font-weight: bold;
+    width: 50%;
+}
+.uni-tab-bar .active.data-v-ced74aea{
+    color: #343434;
+}
+.active .swiper-tab-line.data-v-ced74aea {
+    border-bottom: 6rpx solid #FEDE33;
+    width: 70rpx;
+    margin: auto;
+    border-top: 6rpx solid #FEDE33;
+    border-radius: 20rpx;
+}
+

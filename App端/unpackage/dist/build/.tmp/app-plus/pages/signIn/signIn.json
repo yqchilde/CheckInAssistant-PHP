@@ -1,0 +1,10 @@
+{
+  "navigationBarTextStyle": "white",
+  "scrollIndicator": "none",
+  "titleNView": {
+    "type": "transparent",
+    "titleColor": "white",
+    "backgroundColor": "#2692FF"
+  },
+  "usingComponents": {}
+}

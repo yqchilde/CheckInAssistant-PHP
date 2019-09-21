@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"page { height: 100Vh; width: 100vw; }\n.",[1],"page.",[1],"show { overflow: hidden; }\n.",[1],"cu-list\x3e.",[1],"cu-item.",[1],"move-cur { -webkit-transform: translateX(",[0,-130],"); -ms-transform: translateX(",[0,-130],"); transform: translateX(",[0,-130],") }\n.",[1],"cu-list\x3e.",[1],"cu-item .",[1],"move { width: ",[0,130],"; }\n",],undefined,{path:"./pages/classPeopleList/classPeopleList.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/classPeopleList/classPeopleList.wxml') } }));

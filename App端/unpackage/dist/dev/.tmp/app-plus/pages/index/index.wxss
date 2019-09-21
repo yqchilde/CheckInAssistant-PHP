@@ -1,0 +1,42 @@
+
+page {
+    background: white;
+}
+.tool-img{
+    width: 300rpx;
+    height: 200rpx;
+    opacity: 0.8;
+    -webkit-box-shadow:5rpx 5rpx 5rpx #aaaaaa;
+            box-shadow:5rpx 5rpx 5rpx #aaaaaa;
+    border-radius: 30rpx;
+}
+.card{
+    margin-top: 80rpx;
+    margin-bottom: 30rpx;
+}
+.begin{
+    margin-top: 50rpx;
+    padding: 50rpx;
+}
+.begin image{
+    height: 300rpx;
+    width: 300rpx;
+    -webkit-box-shadow: 0 0 5px 0 rgba(0,0,0,0.8);
+            box-shadow: 0 0 5px 0 rgba(0,0,0,0.8);
+    border-radius: 50%;
+}
+.end>navigator:first-child{
+    position: fixed;
+    left: 25rpx;
+    bottom: 15rpx;
+}
+.end>navigator:last-child{
+    position: fixed;
+    right: 25rpx;
+    bottom: 15rpx;
+}
+.end image{
+    width: 70rpx;
+    height: 70rpx;
+}
+

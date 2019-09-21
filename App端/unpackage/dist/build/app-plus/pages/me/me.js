@@ -1,0 +1,2 @@
+setCssToHead(["body{ background: white; }\n.",[1],"page-one { height: ",[0,130],"; }\n.",[1],"page-one .",[1],"cuIcon-close { position: fixed; right: ",[0,50],"; top: ",[0,50],"; font-size: ",[0,60],"; }\n",],undefined,{path:"./pages/me/me.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/me/me.wxml') } }));

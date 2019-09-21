@@ -1,0 +1,66 @@
+
+.header {
+    height: 300rpx;
+    width: 100%;
+    background:-webkit-gradient(linear,right top, left top,from(#9152fa),to(#67A2FA));
+    background:-o-linear-gradient(right,#9152fa,#67A2FA);
+    background:linear-gradient(right,#9152fa,#67A2FA);
+    border-radius: 0 0 60% 60%/0 0 25% 25% ;
+    border-top: none;
+}
+.header-text {
+    position: fixed;
+    top: 70rpx;
+    font-size: 40rpx;
+    color: #fff;
+}
+.header-logo {
+    width: 90rpx;
+    height: 90rpx;
+    border-radius: 50%;
+    background: #FFFFFF;
+    -webkit-box-shadow: 0 0 2px 0 rgba(0,0,0,0.2);
+            box-shadow: 0 0 2px 0 rgba(0,0,0,0.2);
+    font-size: 45rpx;
+    position: relative;
+    top: -135rpx;
+    z-index: 1;
+}
+.card-head {
+    width: 94%;
+    height: auto;
+    padding: 80rpx  0 20rpx 0;
+    background: #FFFFFF;
+    border-radius: 8rpx;
+    -webkit-box-shadow: 0 0 2px 0 rgba(0,0,0,0.2);
+            box-shadow: 0 0 2px 0 rgba(0,0,0,0.2);
+    position: relative;
+    top: -175rpx;
+}
+.circle {
+    width: 90rpx;
+    height: 90rpx;
+    border-radius: 50%;
+    color: #FFFFFF;
+    font-size: 35rpx;
+}
+.card-list {
+    width: 94%;
+    position: relative;
+    top: -160rpx;
+}
+.card-list-item{
+    margin-top: 12rpx;
+    background: #FFFFFF;
+    border-radius: 8rpx;
+    -webkit-box-shadow: 0 0 2px 0 rgba(0,0,0,0.2);
+            box-shadow: 0 0 2px 0 rgba(0,0,0,0.2);
+}
+/* scroll */
+.page.show {
+	overflow: hidden;
+}
+.cu-list {
+    border-radius: 8rpx;
+}
+

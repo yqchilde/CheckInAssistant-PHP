@@ -1,0 +1,8 @@
+{
+  "navigationBarTextStyle": "white",
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "number-box": "/components/number-box",
+    "uni-notice-bar": "/components/uni-notice-bar/uni-notice-bar"
+  }
+}

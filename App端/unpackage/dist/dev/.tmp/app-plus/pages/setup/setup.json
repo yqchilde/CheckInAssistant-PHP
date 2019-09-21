@@ -1,0 +1,6 @@
+{
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "home-list-item": "/components/home-list-item"
+  }
+}

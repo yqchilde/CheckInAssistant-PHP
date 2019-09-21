@@ -1,0 +1,89 @@
+
+page{
+    background-color:#F2F2F2;
+}
+.header{
+    height: 250rpx;
+    width: 100%;
+    background:-webkit-gradient(linear,left top, left bottom,from(#9152fa),to(#67A2FA));
+    background:-o-linear-gradient(#9152fa,#67A2FA);
+    background:linear-gradient(#9152fa,#67A2FA);
+    border-radius: 0 0 60% 60%/0 0 25% 25% ;
+    border-top: none;
+}
+.header-text{
+    margin-top: 80rpx;
+    font-size: 50rpx;
+    color: #fff;
+}
+.header-logo{
+    width: 100rpx;
+    height: 100rpx;
+    margin: 30rpx auto;
+}
+picker{
+    -webkit-align-self: center;
+        -ms-flex-item-align: center;
+            align-self: center;
+}
+.room{
+    width: 95%;
+    height: auto;
+    margin: 50rpx 0 15rpx 0;
+    border-radius: 15rpx;
+    background-color: #fff;
+    -webkit-box-shadow:0rpx 2rpx 2rpx #aaaaaa;
+            box-shadow:0rpx 2rpx 2rpx #aaaaaa;
+}
+.roomTitle{
+    padding: 20rpx;
+    font-size: 38rpx;
+}
+.roomTitleIf{
+    padding: 20rpx;
+    font-size: 35rpx;
+    color: #57A3FB;
+}
+.time{
+    width: 95%;
+    height: auto;
+    margin: 15rpx;
+    border-radius: 15rpx;
+    background-color: #fff;
+    -webkit-box-shadow:0rpx 2rpx 2rpx #aaaaaa;
+            box-shadow:0rpx 2rpx 2rpx #aaaaaa;
+}
+.signWay{
+    width: 95%;
+    height: auto;
+    margin: 15rpx;
+    border-radius: 15rpx;
+    background-color: #fff;
+    -webkit-box-shadow:0rpx 2rpx 2rpx #aaaaaa;
+            box-shadow:0rpx 2rpx 2rpx #aaaaaa;
+}
+.signWay-tips text{
+    padding: 20rpx;
+    font-size: 38rpx;
+}
+.cu-form-group{
+    background: none;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+}
+.btnOk{
+    width: 300rpx;
+    height: auto;
+    background:-webkit-gradient(linear,right top, left top,from(#9152fa),to(#67A2FA));
+    background:-o-linear-gradient(right,#9152fa,#67A2FA);
+    background:linear-gradient(right,#9152fa,#67A2FA);
+    border-radius: 70rpx;
+    -webkit-box-shadow:0rpx 5rpx 2rpx #aaaaaa;
+            box-shadow:0rpx 5rpx 2rpx #aaaaaa;
+    margin: 100rpx 0 30px 0;
+    font-size: 38rpx;
+    color: #fff;
+}
+

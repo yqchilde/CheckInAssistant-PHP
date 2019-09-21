@@ -1,0 +1,9 @@
+{
+  "onReachBottomDistance": 150,
+  "usingComponents": {
+    "uni-fab": "/components/uni-fab/uni-fab",
+    "class-list": "/components/class-list",
+    "swiper-tab": "/components/swiper-tab",
+    "no-thing": "/components/no-thing"
+  }
+}

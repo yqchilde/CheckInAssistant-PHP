@@ -1,0 +1,112 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.7.0",
+  "appid": "touristappid",
+  "projectname": "课堂签到助手",
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "current": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "current": 0,
+      "list": [
+        {
+          "name": "setup",
+          "id": 0,
+          "pathName": "pages/setup/setup"
+        },
+        {
+          "name": "me",
+          "id": 1,
+          "pathName": "pages/me/me"
+        },
+        {
+          "name": "index",
+          "id": 2,
+          "pathName": "pages/index/index"
+        },
+        {
+          "name": "record",
+          "id": 3,
+          "pathName": "pages/record/record"
+        },
+        {
+          "name": "signer",
+          "id": 4,
+          "pathName": "pages/signer/signer"
+        },
+        {
+          "name": "signIn",
+          "id": 5,
+          "pathName": "pages/signIn/signIn"
+        },
+        {
+          "name": "statistics",
+          "id": 6,
+          "pathName": "pages/statistics/statistics"
+        },
+        {
+          "name": "viewSign",
+          "id": 7,
+          "pathName": "pages/viewSign/viewSign"
+        },
+        {
+          "name": "roomList",
+          "id": 8,
+          "pathName": "pages/roomList/roomList"
+        },
+        {
+          "name": "roomDetails",
+          "id": 9,
+          "pathName": "pages/roomDetails/roomDetails"
+        },
+        {
+          "name": "classList",
+          "id": 10,
+          "pathName": "pages/classList/classList"
+        },
+        {
+          "name": "createRoom",
+          "id": 11,
+          "pathName": "pages/createRoom/createRoom"
+        },
+        {
+          "name": "createClass",
+          "id": 12,
+          "pathName": "pages/createClass/createClass"
+        },
+        {
+          "name": "classPeopleList",
+          "id": 13,
+          "pathName": "pages/classPeopleList/classPeopleList"
+        },
+        {
+          "name": "login",
+          "id": 14,
+          "pathName": "pages/login/login"
+        },
+        {
+          "name": "register",
+          "id": 15,
+          "pathName": "pages/register/register"
+        }
+      ]
+    }
+  }
+}

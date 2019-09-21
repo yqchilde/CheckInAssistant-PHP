@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"swiper-top{ position: relative; top: ",[0,90],"; }\n.",[1],"swiper-box{ margin-top: ",[0,15],"; }\n",],undefined,{path:"./pages/roomList/roomList.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/roomList/roomList.wxml') } }));

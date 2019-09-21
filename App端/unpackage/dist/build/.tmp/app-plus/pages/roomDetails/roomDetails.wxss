@@ -1,0 +1,137 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 顶部card */
+.card-head {
+    width: 94%;
+    height: auto;
+    margin-top: 12rpx;
+    padding: 20rpx;
+    background: #FFFFFF;
+    border-radius: 8rpx;
+    -webkit-box-shadow: 0 0 2px 0 rgba(0,0,0,0.2);
+            box-shadow: 0 0 2px 0 rgba(0,0,0,0.2);
+}
+.card-list {
+    width: 94%;
+}
+.card-list-item{
+    margin-top: 12rpx;
+    background: #FFFFFF;
+    border-radius: 8rpx;
+    -webkit-box-shadow: 0 0 2px 0 rgba(0,0,0,0.2);
+            box-shadow: 0 0 2px 0 rgba(0,0,0,0.2);
+}
+.card-title {
+    font-size: 34rpx;
+}
+.card-info {
+    font-size: 30rpx;
+    color: #6E6E6E;
+}
+/* scroll */
+.page.show {
+	overflow: hidden;
+}
+.cu-list {
+    border-radius: 8rpx;
+}
+

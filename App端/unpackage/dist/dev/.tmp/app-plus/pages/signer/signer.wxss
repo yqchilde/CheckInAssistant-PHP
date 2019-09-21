@@ -1,0 +1,103 @@
+
+page {
+    background: #FFFFFF;
+}
+.top {
+    margin: 30rpx 0;
+}
+.item {
+    height: auto;
+    width: 95%;
+    padding: 5rpx 0;
+}
+.top-left {
+    font-size: 40rpx;
+}
+.top-right {
+    font-size: 35rpx;
+    color: #9B9B9B
+}
+.circle {
+    width: 300rpx;
+    height: 300rpx;
+    margin-top: 50rpx;
+    color: #FFFFFF;
+    font-size: 45rpx;
+    background: #2692ff;
+    border-radius: 100%;
+}
+.line {
+    width: 100%;
+    height: 10rpx;
+    margin-top: 50rpx;
+    background: #CCCCCC;
+}
+/* 签到码 */
+.signCode{
+    margin-top: 150rpx;
+}
+.signCode .label {
+    font-size: 50rpx;
+}
+.signCode .grid {
+    margin-top: 10rpx;
+    width: 100rpx;
+    height: 100rpx;
+    background: #EBF5FF;
+    border: solid 1rpx #C7E7FE;
+    font-size: 50rpx;
+    color: #6CB3F4;
+}
+.signCode-btn {
+    width: 100rpx;
+    height: 100rpx;
+    border-radius: 50%;
+    margin-top: 30rpx;
+    background: #0081ff;       
+    font-size: 40rpx;
+    color: #FFFFFF;
+    -webkit-box-shadow: 0 0 5px 0 rgba(0,0,0,0.8);
+            box-shadow: 0 0 5px 0 rgba(0,0,0,0.8);
+}
+.timerStart {
+    width: 100%;
+    height: 100rpx;
+    background: #E35261;
+    color: #FFFFFF;
+    font-size: 48rpx;
+    position: fixed;
+    bottom: 0;
+}
+.timerEnd {
+    width: 100%;
+    height: 100rpx;
+    background: #B2B2B2;
+    color: #FFFFFF;
+    font-size: 48rpx;
+    position: fixed;
+    bottom: 0;
+}
+/* 签到按钮 */
+.btnStart{
+    margin-top: 50rpx;
+    border-radius:50%;
+    width: 300rpx;
+    height: 300rpx;
+    background: #0081ff;
+    font-size: 50rpx;
+    color: #FFFFFF;
+    -webkit-box-shadow: 0 0 5px 0 rgba(0,0,0,0.8);
+            box-shadow: 0 0 5px 0 rgba(0,0,0,0.8);
+}
+.btnEnd{
+    margin-top: 50rpx;
+    border-radius:50%;
+    width: 300rpx;
+    height: 300rpx;
+    background: #B2B2B2;
+    font-size: 50rpx;
+    color: #FFFFFF;
+    -webkit-box-shadow: 0 0 5px 0 rgba(0,0,0,0.8);
+            box-shadow: 0 0 5px 0 rgba(0,0,0,0.8);
+}
+

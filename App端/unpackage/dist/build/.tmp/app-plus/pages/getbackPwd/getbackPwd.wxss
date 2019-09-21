@@ -1,0 +1,25 @@
+
+.input-box {
+    height: 100rpx;
+}
+.input-box>text:first-child,.input-box>view:last-child {
+    font-size: 35rpx;
+}
+.line-shu-gray {
+    height: 85rpx;
+    width: 2rpx;
+    background: #EEEEEE;
+}
+.line-heng-gray {
+    height: 2rpx;
+    width: 90%;
+    background: #EEEEEE;
+}
+.btnBack {
+    border-radius: 50rpx;
+    width: 60%;
+    height: auto;
+    margin-top: 50rpx;
+    font-size: 38rpx;
+}
+

@@ -1,0 +1,17 @@
+
+.page {
+	height: 100Vh;
+	width: 100vw;
+}
+.page.show {
+	overflow: hidden;
+}
+.cu-list>.cu-item.move-cur {
+	-webkit-transform: translateX(-130rpx);
+	    -ms-transform: translateX(-130rpx);
+	        transform: translateX(-130rpx)
+}
+.cu-list>.cu-item .move {
+	width: 130rpx;
+}
+

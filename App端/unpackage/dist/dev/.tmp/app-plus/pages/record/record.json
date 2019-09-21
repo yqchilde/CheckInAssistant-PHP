@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "swiper-tab": "/components/swiper-tab",
+    "no-thing": "/components/no-thing"
+  }
+}

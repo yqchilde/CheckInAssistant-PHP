@@ -1,0 +1,7 @@
+{
+  "titleNView": false,
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

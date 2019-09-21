@@ -1,0 +1,9 @@
+{
+  "navigationBarTextStyle": "white",
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "number-box": "/components/number-box",
+    "uni-notice-bar": "/components/uni-notice-bar/uni-notice-bar"
+  }
+}

@@ -1,0 +1,67 @@
+
+page{
+    background-color:#F2F2F2;
+}
+.className{
+    width: 95%;
+    height: auto;
+    margin: 25rpx 0 0 0;
+    border-radius: 15rpx;
+    background-color: #fff;
+    -webkit-box-shadow:0rpx 2rpx 2rpx #aaaaaa;
+            box-shadow:0rpx 2rpx 2rpx #aaaaaa;
+}
+.className text{
+    padding: 20rpx;
+    font-size: 38rpx;
+}
+.className-input{
+    padding: 20rpx;
+    font-size: 35rpx;
+}
+.class{
+    width: 95%;
+    height: auto;
+    margin: 25rpx 0 0 0;
+    border-radius: 15rpx;
+    background-color: #fff;
+    -webkit-box-shadow:0rpx 2rpx 2rpx #aaaaaa;
+            box-shadow:0rpx 2rpx 2rpx #aaaaaa;
+}
+.submit-class{
+    padding: 0rpx 20rpx 5rpx 20rpx;
+    font-size: 35rpx;
+    color: #8C8C8C;
+}
+.classSubmit{
+    margin: 10rpx 0;
+}
+.class .classTitle, .class-choice{
+    padding: 20rpx;
+    font-size: 38rpx;
+}
+.iconxuanze{
+    color: #9152FA;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+.class .uni-list-cell-db{
+    font-size: 35rpx;
+}
+.btnOk{
+    width: 300rpx;
+    height: auto;
+    background:-webkit-gradient(linear,right top, left top,from(#9152fa),to(#67A2FA));
+    background:-o-linear-gradient(right,#9152fa,#67A2FA);
+    background:linear-gradient(right,#9152fa,#67A2FA);
+    border-radius: 70rpx;
+    -webkit-box-shadow:0rpx 5rpx 2rpx #aaaaaa;
+            box-shadow:0rpx 5rpx 2rpx #aaaaaa;
+    margin-top: 500rpx;
+    font-size: 38rpx;
+    color: #fff;
+    margin: 200rpx 0 50rpx 0;
+}
+

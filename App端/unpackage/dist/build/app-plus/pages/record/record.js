@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"signList{ width: 95%; margin: 0 0 ",[0,25]," 0; border-radius: ",[0,15],"; background-color: #fff; -webkit-box-shadow:",[0,0]," ",[0,2]," ",[0,2]," #aaaaaa; box-shadow:",[0,0]," ",[0,2]," ",[0,2]," #aaaaaa; padding: ",[0,20],"; font-size: ",[0,34],"; }\n.",[1],"swiper-top{ position: relative; top: ",[0,90],"; }\n.",[1],"swiper-box{ margin-top: ",[0,15],"; }\n",],undefined,{path:"./pages/record/record.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/record/record.wxml') } }));

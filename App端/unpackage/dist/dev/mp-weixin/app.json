@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/login",
+    "pages/register/register",
+    "pages/me/me",
+    "pages/createRoom/createRoom",
+    "pages/createClass/createClass",
+    "pages/classList/classList",
+    "pages/classPeopleList/classPeopleList",
+    "pages/roomList/roomList",
+    "pages/roomDetails/roomDetails",
+    "pages/signIn/signIn",
+    "pages/signer/signer",
+    "pages/record/record",
+    "pages/setup/setup",
+    "pages/statistics/statistics",
+    "pages/viewSign/viewSign",
+    "pages/set-about/set-about"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#ffffff",
+    "navigationStyle": "custom"
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

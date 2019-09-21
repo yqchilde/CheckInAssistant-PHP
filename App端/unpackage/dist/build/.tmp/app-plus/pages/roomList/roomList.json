@@ -1,0 +1,10 @@
+{
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "uni-fab": "/components/uni-fab/uni-fab",
+    "room-list": "/components/room-list",
+    "swiper-tab": "/components/swiper-tab",
+    "no-thing": "/components/no-thing"
+  }
+}

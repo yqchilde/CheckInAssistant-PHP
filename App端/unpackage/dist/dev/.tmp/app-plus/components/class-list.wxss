@@ -1,0 +1,30 @@
+
+.classList.data-v-62ffc311{
+    width: 94%;
+    margin: 0 0 20rpx 0;
+    border-radius: 15rpx;
+    background-color: #fff;
+    -webkit-box-shadow:0rpx 2rpx 2rpx #aaaaaa;
+            box-shadow:0rpx 2rpx 2rpx #aaaaaa;
+    border-left-style: solid;
+    border-left-width: 15rpx;
+}
+.classList-title.data-v-62ffc311, .classList-info.data-v-62ffc311, .classList-btn.data-v-62ffc311{
+    padding: 12rpx;
+    font-size: 38rpx;
+}
+.classList-img.data-v-62ffc311{
+    width: 50rpx;
+    height: 50rpx;
+}
+.classList-info text.data-v-62ffc311{
+    font-size: 30rpx;
+}
+.classBtn.data-v-62ffc311{
+    background: #F2F2F2;
+    border-radius: 50rpx;
+    padding: 2rpx 15rpx;
+    font-size: 28rpx;
+    color: #969696;
+}
+

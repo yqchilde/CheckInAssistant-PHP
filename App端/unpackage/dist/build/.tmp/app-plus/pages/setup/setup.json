@@ -1,0 +1,7 @@
+{
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "home-list-item": "/components/home-list-item"
+  }
+}

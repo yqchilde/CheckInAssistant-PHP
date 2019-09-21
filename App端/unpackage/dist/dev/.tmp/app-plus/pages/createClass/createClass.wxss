@@ -1,0 +1,35 @@
+
+page{
+    background-color:#F2F2F2;
+}
+.className, .peopleNum{
+    width: 95%;
+    height: auto;
+    margin: 25rpx 0 0 0;
+    border-radius: 15rpx;
+    background-color: #fff;
+    -webkit-box-shadow:0rpx 2rpx 2rpx #aaaaaa;
+            box-shadow:0rpx 2rpx 2rpx #aaaaaa;
+}
+.className text, .peopleNum text{
+    padding: 20rpx;
+    font-size: 38rpx;
+}
+.className-input, .peopleNum-input{
+    padding: 20rpx;
+    font-size: 35rpx;
+}
+.btnOk{
+    width: 300rpx;
+    height: auto;
+    background:-webkit-gradient(linear,right top, left top,from(#9152fa),to(#67A2FA));
+    background:-o-linear-gradient(right,#9152fa,#67A2FA);
+    background:linear-gradient(right,#9152fa,#67A2FA);
+    border-radius: 70rpx;
+    -webkit-box-shadow:0rpx 5rpx 2rpx #aaaaaa;
+            box-shadow:0rpx 5rpx 2rpx #aaaaaa;
+    margin-top: 500rpx;
+    font-size: 38rpx;
+    color: #fff;
+}
+
