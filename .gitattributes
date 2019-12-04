@@ -1,3 +1,2 @@
-*.js linguist-language=uni-app
-*.css linguist-language=uni-app
-*.html linguist-language=uni-app
+# Auto detect text files and perform LF normalization
+* text=auto
